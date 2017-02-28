@@ -1,0 +1,10 @@
+C:\Projects\PublishSubscribe_Event_Delegate\PublishSubscribe_Event_Delegate\My.Client\bin\Debug\My.Client.exe.config
+C:\Projects\PublishSubscribe_Event_Delegate\PublishSubscribe_Event_Delegate\My.Client\bin\Debug\My.Client.exe
+C:\Projects\PublishSubscribe_Event_Delegate\PublishSubscribe_Event_Delegate\My.Client\bin\Debug\My.Client.pdb
+C:\Projects\PublishSubscribe_Event_Delegate\PublishSubscribe_Event_Delegate\My.Client\bin\Debug\My.Domain.dll
+C:\Projects\PublishSubscribe_Event_Delegate\PublishSubscribe_Event_Delegate\My.Client\bin\Debug\My.Service.dll
+C:\Projects\PublishSubscribe_Event_Delegate\PublishSubscribe_Event_Delegate\My.Client\bin\Debug\My.Domain.pdb
+C:\Projects\PublishSubscribe_Event_Delegate\PublishSubscribe_Event_Delegate\My.Client\bin\Debug\My.Service.pdb
+C:\Projects\PublishSubscribe_Event_Delegate\PublishSubscribe_Event_Delegate\My.Client\obj\Debug\My.Client.csprojResolveAssemblyReference.cache
+C:\Projects\PublishSubscribe_Event_Delegate\PublishSubscribe_Event_Delegate\My.Client\obj\Debug\My.Client.exe
+C:\Projects\PublishSubscribe_Event_Delegate\PublishSubscribe_Event_Delegate\My.Client\obj\Debug\My.Client.pdb

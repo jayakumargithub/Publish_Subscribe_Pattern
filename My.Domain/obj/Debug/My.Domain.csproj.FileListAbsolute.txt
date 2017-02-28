@@ -1,0 +1,5 @@
+C:\Projects\PublishSubscribe_Event_Delegate\PublishSubscribe_Event_Delegate\My.Domain\bin\Debug\My.Domain.dll
+C:\Projects\PublishSubscribe_Event_Delegate\PublishSubscribe_Event_Delegate\My.Domain\bin\Debug\My.Domain.pdb
+C:\Projects\PublishSubscribe_Event_Delegate\PublishSubscribe_Event_Delegate\My.Domain\obj\Debug\My.Domain.csprojResolveAssemblyReference.cache
+C:\Projects\PublishSubscribe_Event_Delegate\PublishSubscribe_Event_Delegate\My.Domain\obj\Debug\My.Domain.dll
+C:\Projects\PublishSubscribe_Event_Delegate\PublishSubscribe_Event_Delegate\My.Domain\obj\Debug\My.Domain.pdb
